@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Kevin McCabe's blog on Computational Economics
 
-I'm glad you are here. I plan to talk about ...
+This blog contains my research in Computational Economics.
