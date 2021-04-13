@@ -2,9 +2,7 @@
 title: "Kevin McCabe"
 date: 2021-04-13
 ---
-
 theme: minima
-title: Computational Experimental Economics
 author: kmccabe
 email: kmccabe@gmu.edu
 description: > # this means to ignore newlines until "baseurl:"
